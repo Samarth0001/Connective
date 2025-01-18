@@ -1,13 +1,13 @@
 Connective is a video conferencing tool built with the latest Next.js and TypeScript. It enables users to securely log in, create meetings and access various meeting functionalities such as recording, screen sharing, and managing participants.
-<b>Tech Stack</b>
-  • Next.js
-  • TypeScript
-  • Clerk
-  • getstream
-  • shadcn
-  • Tailwind CSS
+<h2>Tech Stack</h2>
+  • Next.js<br/>
+  • TypeScript<br/>
+  • Clerk<br/>
+  • getstream<br/>
+  • shadcn<br/>
+  • Tailwind CSS<br/>
 
-<b>Features</b>
+<h2>Features</h2>
 1) Authentication: Implements authentication and authorization features using Clerk, allowing users to securely log in via social sign-on or traditional email and password methods, while ensuring appropriate access levels and permissions within the platform.
 2) New Meeting: Quickly start a new meeting, configuring camera and microphone settings before joining.
 3) Meeting Controls: Participants have full control over meeting aspects, including recording, emoji reactions, screen sharing, muting/unmuting, sound adjustments, grid layout, participant list view, and individual participant management (pinning, muting, unmuting, blocking, allowing video share).
